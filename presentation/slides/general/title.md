@@ -1,7 +1,9 @@
 # Kotlin
 ### Less Code, More Fun
-<br />
+
 <img src="img/kotlin-logo.png" height=300 />
 
+<br />
+Michael Fazio - <a href="#">@faziodev</a>
 Note:
 +

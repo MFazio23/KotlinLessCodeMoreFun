@@ -75,3 +75,9 @@ li:before {
 li {
   list-style: none;
 }
+
+.reveal h1 {
+  background: -webkit-linear-gradient(75deg, #00C7FF, #6C78FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
