@@ -1,7 +1,13 @@
-##
-###
+### Kotlin on Android
+#### `lateinit`
 
-<img src="img/" height="500" />
+```kotlin
+private lateinit var logo: ImageView
+```
+
+```kotlin
+this.logo = this.findViewById<ImageView>(R.id.logo)
+```
 
 Note:
 +

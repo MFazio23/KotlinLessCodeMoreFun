@@ -1,7 +1,7 @@
-##
-###
+### Kotlin Native
+#### iOS
 
-<img src="img/" height="500" />
+<img src="img/apple-logo-gray.png" height="500" />
 
 Note:
 +

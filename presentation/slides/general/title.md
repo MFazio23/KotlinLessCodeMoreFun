@@ -1,7 +1,7 @@
-## Kotlin
+# Kotlin
 ### Less Code, More Fun
-
-<img src="img/kotlin-full-logo.png"  />
+<br />
+<img src="img/kotlin-logo.png" height=300 />
 
 Note:
 +
