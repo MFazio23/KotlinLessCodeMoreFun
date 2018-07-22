@@ -5,11 +5,11 @@
   "main": "server.js",
   "dependencies": {
     "bootstrap": "^3.3.5",
-    "express": "^4.13.3",
-    "finalhandler": "latest",
+    "express": "^4.16.3",
+    "finalhandler": "^1.1.1",
     "highlight.js": "^9.12.0",
-    "reveal.js": "^3.2.0",
-    "serve-static": "^1.10.0"
+    "reveal.js": "^3.6.0",
+    "serve-static": "^1.13.2"
   },
   "devDependencies": {},
   "repository": "https://github.com/MFazio23/KotlinLessCodeMoreFun",
