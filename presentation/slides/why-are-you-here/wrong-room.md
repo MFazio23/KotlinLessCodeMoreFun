@@ -1,6 +1,8 @@
 
-<img src="img/raspberry-pi-logo.png" height="500" />
+<img src="img/artemisLogo_subtitle.png" height="500" />
 
 Note:
-+ Hands on IoT Lab is track 10
-+ Did you want to go there instead?
++ Save That Random Universe?
++ in Mangrove
+    + Near the side entrance
+    + Past Open Spaces, next to Mess Hall

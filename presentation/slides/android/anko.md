@@ -25,7 +25,7 @@ Note:
     + Logging
     + Resources/Dimensions
 + Anko Layouts
-    + DSL for Android layouts
+    + DSL (Domain-specific language) for Android layouts
 + Anko SQLite
     + Simplifies working with SQLite DBs
 + Anko Coroutines

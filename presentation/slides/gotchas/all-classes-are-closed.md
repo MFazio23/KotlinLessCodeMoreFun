@@ -18,3 +18,5 @@ Note:
 + Design and document for inheritance or else prohibit it.
     + Effective Java
 + Things are explicit in Kotlin
++ Exception: Abstract classes are open by default
++ Classes are also public by default

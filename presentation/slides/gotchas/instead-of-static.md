@@ -16,7 +16,7 @@ object TeamSource {
 
 ```
 // Import the package and call the method
-val upper: String? = nullSafeToUpper(brewers?.name)
+val upper: String = nullSafeToUpper(brewers?.name)
 
 // Reference the function similarly to a static method
 TeamSource.myFunction()

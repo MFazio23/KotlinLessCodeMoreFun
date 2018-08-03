@@ -21,3 +21,4 @@ fun getTeamSport(team: Team?): Sport = team?.sport ?: Sport.Unknown
 
 Note:
 + Same as `??` in C#
++ "Null coalescing operator"

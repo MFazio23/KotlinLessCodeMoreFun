@@ -15,5 +15,6 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 Note:
 + Official language on Android
++ Announced at Google I/O 2017 (May 2017)
 + Option to build apps in Kotlin right away
 + Only adds about 100K to the APK size
