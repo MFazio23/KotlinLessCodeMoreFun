@@ -10,7 +10,7 @@ data class Team(val city: String, val name: String, var sport: Sport) {
 ```
 
 ```
-val cubs = Team.createBaseballTeam("Chicago", "Cubs")
+val brewers = Team.createBaseballTeam("Milwaukee", "Brewers")
 ```
 
 Note:

@@ -3,11 +3,11 @@
 ```kotlin
 fun listTeams() {
     val brewers: Team? = Team("Milwaukee", "Brewers", Sport.Baseball)
-    val whiteSox: Team? = Team("Chicago", "White Sox", Sport.Baseball)
+    val rockies: Team? = Team("Colorado", "Rockies", Sport.Baseball)
     val devilRays: Team? = null
 
     println(this.getSummary(brewers))
-    println(this.getSummary(whiteSox))
+    println(this.getSummary(rockies))
     println(this.getSummary(devilRays))
 }
 ```

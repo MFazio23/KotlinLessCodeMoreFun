@@ -3,10 +3,10 @@
 
 ```
 val brewers: Team? = Team("Milwaukee", "Brewers", Sport.Baseball)
-val whiteSox: Team? = Team("Chicago", "White Sox", Sport.Baseball)
+val rockies: Team? = Team("Colorado", "Rockies", Sport.Baseball)
 val devilRays: Team? = null
 
-val baseballTeams = listOf(brewers, whiteSox, devilRays)
+val baseballTeams = listOf(brewers, rockies, devilRays)
 ```
 
 ```
